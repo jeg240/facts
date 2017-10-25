@@ -10,8 +10,8 @@
 * There's an underground tunnel in downtown @Portland.
 
 Karla:
-was born in Asheville, NC
-is 27 years old
-attends Epicodus learning to program
-is a dog person
-loves the outdoors
+  * was born in Asheville, NC
+  * is 27 years old
+  * attends Epicodus learning to program
+  * is a dog person
+  * loves the outdoors
