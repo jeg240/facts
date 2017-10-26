@@ -5,7 +5,7 @@
 
 * @IsleRoyaleNationalPark is the least visited national park in the United States.
 * The wolf population of @IsleRoyaleNationalPark is dying off due to genetic inbreeding.
-* @Isle Royale National Park is only accessible by boat or seaplane.
+* @IsleRoyaleNationalPark is only accessible by boat or seaplane.
 * The moose of @IsleRoyaleNationalPark have no major predator now that the wolves are declining.
 * The National Park Service will decide at the end of 2017 whether or not to introduce new wolves into @IsleRoyaleNationalPark.
 
