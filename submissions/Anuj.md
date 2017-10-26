@@ -3,15 +3,8 @@
 
 ----
 
-* First fact about @the first subject.
-* Second fact about @the first subject.
-* Third fact about @the first subject.
-* Fourth fact about @the first subject.
-* Fifth fact about @the first subject.
-
-Second subject:
-  * Fact 1
-  * Fact 2
-  * Fact 3
-  * Fact 4
-  * Fact 5
+* The area of @Nepal is 147,181 sq. km.
+* @Nepal has 9 out of 10 highest peaks in the world.
+* Gautam Buddha was born in @Nepal.
+* @Nepal has the highest percentage of Hindu people in the world(in % of national population).
+* @Nepal is the only country in Indian sub-continent that has been sovereign in all of its history.
